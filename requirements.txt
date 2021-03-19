@@ -67,7 +67,7 @@ idna==2.6
 incremental==16.10.1
 itypes==1.1.0
 jaraco.classes==1.4.3
-Jinja2==2.10
+Jinja2==2.11.3
 kombu==4.1.0
 lxml==3.7.2
 Markdown==2.6.7
