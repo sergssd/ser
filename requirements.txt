@@ -77,7 +77,7 @@ more-itertools==4.0.1
 mpeg1audio==0.5.2
 networkx==2.0
 nltk==3.2.5
-numpy==1.13.3
+numpy==1.22.0
 oauthlib==2.0.4
 olefile==0.44
 openapi-codec==1.3.2
